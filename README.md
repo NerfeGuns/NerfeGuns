@@ -31,7 +31,7 @@
 <p align="center"> 
 <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=NerfeGuns&?count_private=true&show_icons=true&theme=chartreuse-dark&background=0D233F" />
  <br/><br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NerfeGuns&hide=html,css,scss&langs_count=15&layout=compact&theme=chartreuse-dark&background=0D233F" width="400px" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NerfeGuns&langs_count=15&layout=compact&theme=chartreuse-dark&background=0D233F" width="400px" />
 </p>
   
  <br><br>
@@ -43,11 +43,3 @@
 <image src="https://streak-stats.demolab.com?user=NerfeGuns&theme=highcontrast&hide_border=true&border_radius=80&background=0D233F&border=FFFFFF&stroke=03FF00&ring=00FF12&fire=FF0000&currStreakNum=00DD28&sideNums=41F9FF&currStreakLabel=F8FF24&sideLabels=FFFFFF" width="500">
 <br><br> 
 </div>
-
-
-[![Github](https://img.shields.io/github/followers/NerfeGuns?label=Follow&style=social)](https://github.com/NerfeGuns)
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
