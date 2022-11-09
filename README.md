@@ -7,6 +7,10 @@
 <image src="https://gpvc.arturio.dev/NerfeGuns"> 
 <br><br>
 </p>
+<p align="center">
+<image src="https://visitor-badge.laobi.icu/badge?page_id=NerfeGuns.NerfeGuns">
+</p>
+<br><br>
   
 ### :computer: Programming Languages Skills :computer:
 <br />
@@ -41,7 +45,6 @@
 <br><br> 
 </div>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=NerfeGuns.NerfeGuns)
 
 [![Github](https://img.shields.io/github/followers/NerfeGuns?label=Follow&style=social)](https://github.com/NerfeGuns)
 
