@@ -9,3 +9,8 @@ git push -u origin MyBranch
 git remote add origin https://github.com/NerfeGuns/NerfeGuns.git
 git branch -M MyBranch
 git push -u origin MyBranch
+
+
+merge
+
+git pull --rebase
