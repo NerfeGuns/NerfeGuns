@@ -1,7 +1,7 @@
 ### Hi! 👨‍💻 Programmer's 👨‍💻
 
 <p align="center">
-<img src="https://github.com/NerfeGuns/profile/blob/7c18f95399e10c484d7c94ed1ab8ad57b9fbf4b4/Banner.jpg" width=“100%”>
+<img src="https://github.com/NerfeGuns/NerfeGuns/blob/4d7cd4b59bbde42596d304268c342f31979cc517/Banner.jpg" width=“100%”>
 <br /><br />
 
 <image src="https://gpvc.arturio.dev/NerfeGuns"> 
