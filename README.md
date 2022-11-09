@@ -5,7 +5,6 @@
 <br /><br />
 
 <image src="https://gpvc.arturio.dev/NerfeGuns"> 
-<br><br>
 </p>
 <p align="center">
 <image src="https://visitor-badge.laobi.icu/badge?page_id=NerfeGuns.NerfeGuns">
