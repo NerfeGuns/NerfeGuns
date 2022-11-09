@@ -1,0 +1,11 @@
+echo "# NerfeGuns" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M MyBranch
+git remote add origin https://github.com/NerfeGuns/NerfeGuns.git
+git push -u origin MyBranch
+
+git remote add origin https://github.com/NerfeGuns/NerfeGuns.git
+git branch -M MyBranch
+git push -u origin MyBranch
