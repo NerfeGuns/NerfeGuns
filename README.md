@@ -31,7 +31,7 @@
 <p align="center"> 
 <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=NerfeGuns&?count_private=true&show_icons=true&theme=chartreuse-dark&background=0D233F" />
  <br/><br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NerfeGuns&langs_count=15&layout=compact&theme=chartreuse-dark&background=0D233F" width="400px" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NerfeGuns&hide=html,css,scss&langs_count=15&layout=compact&theme=chartreuse-dark&background=0D233F" width="400px" />
 </p>
   
  <br><br>

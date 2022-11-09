@@ -17,4 +17,4 @@ git pull --rebase
 
 
 alternative of git remote
-git fetch add origin https://github.com/NerfeGuns/NerfeGuns.git
+git fetch origin https://github.com/NerfeGuns/NerfeGuns.git
