@@ -3,10 +3,10 @@
 <p align="center">
 <img src="https://github.com/NerfeGuns/NerfeGuns/blob/4d7cd4b59bbde42596d304268c342f31979cc517/Banner.jpg" width=“100%”>
 <br /><br />
-
-<image src="https://gpvc.arturio.dev/NerfeGuns"> 
 </p>
+
 <p align="center">
+<image src="https://gpvc.arturio.dev/NerfeGuns"> 
 <image src="https://visitor-badge.laobi.icu/badge?page_id=NerfeGuns.NerfeGuns">
 </p>
 <br><br>
