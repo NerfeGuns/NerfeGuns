@@ -33,10 +33,10 @@
  <br/><br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NerfeGuns&hide=html,css,scss&langs_count=15&layout=compact&theme=chartreuse-dark&background=0D233F" width="400px" />
 </p>
-  wakatime: [https://wakatime.com/@NerfeGuns]
  <br><br>
  <div align="center">
    <img src="https://wakatime.com/share/@NerfeGuns/9925b951-9375-45a3-a88e-8e6f440addd7.svg" width="500">
+   <p src="https://wakatime.com/share/@NerfeGuns" width="500">
   </div>
   <br><br>
 <div align="center">
