@@ -15,7 +15,7 @@
 <br />
 <div align="center">
 <div style="display:flex;">
-<img src="https://skillicons.dev/icons?i=java,c,cpp,python,flask,git&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,c,cpp,python,flask,nodejs,js,git&theme=dark&perline=8" />
 </div>
 </div>
 <br />
